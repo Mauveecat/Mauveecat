@@ -8,4 +8,4 @@
 :alien: Fun fact: I have 5 wisdom teeth <br> 
 
 
-![visitors] (https://visitor-badge.glitch.me/badge?Mauveecat=Mauveecat)
+![visitors](https://visitor-badge.glitch.me/badge?Mauveecat=Mauveecat)
