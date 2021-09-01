@@ -8,4 +8,4 @@
 :alien: Fun fact: I have 5 wisdom teeth <br> 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?Mauveecat=Mauveecat)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mauveecat&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
